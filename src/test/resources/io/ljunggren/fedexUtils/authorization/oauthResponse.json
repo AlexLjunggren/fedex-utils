@@ -1,0 +1,6 @@
+{
+    "access_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6WyJDWFMiLCJTRUNVUkUiX",
+    "token_type": "bearer",
+    "expires_in": 3599,
+    "scope": "CXS SECURE"
+}

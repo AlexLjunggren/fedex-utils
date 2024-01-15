@@ -1,0 +1,9 @@
+{
+    "transactionId": "8925ec9b-fff6-412e-ae76-ec84303240f2",
+    "errors": [
+        {
+            "code": "NOT.AUTHORIZED.ERROR",
+            "message": "The given client credentials were not valid. Please modify your request and try again."
+        }
+    ]
+}
